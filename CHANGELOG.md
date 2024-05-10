@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 ## [next] - 2.1.1.2
 
+## [2.1.1.1.ul] - 2024-05-11
+### Changed
+- Move all files from lib folder
+
 ## [2.1.1.1] - 2023-03-31
 ### Changed
 - Update upstream version from **2.1.0** to **2.1.1**
@@ -27,6 +31,7 @@ Creation of the repository which provides :
 <!-- Versions -->
 [next]: https://github.com/legerch/QCustomPlot-library/compare/2.1.1.1...dev
 
+[2.1.1.1.ul]: https://github.com/UmbrellaLeaf5/qcustomplot/releases/tag/2.1.1.1.ul
 [2.1.1.1]: https://github.com/legerch/QCustomPlot-library/compare/2.1.0.2...2.1.1.1
 [2.1.0.2]: https://github.com/legerch/QCustomPlot-library/compare/2.1.0.1...2.1.0.2
 [2.1.0.1]: https://github.com/legerch/QCustomPlot-library/releases/tag/2.1.0.1
